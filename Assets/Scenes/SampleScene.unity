@@ -223,6 +223,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e7475a7009cf004d82f476f380c84c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  saborHelado: FRU
+  cantidadGramos: 1000
 --- !u!4 &1993594507
 Transform:
   m_ObjectHideFlags: 0

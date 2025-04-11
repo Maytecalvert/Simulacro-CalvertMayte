@@ -6,7 +6,7 @@ public class tresgustos : MonoBehaviour
 {
     public string saborHelado;
     public int cantidadGramos;
-    int costoGramo = 1250 / 1000;
+    float costoGramo = 1.25f;
     float descuento = 0.9f;
     float precioFinal;
 
